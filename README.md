@@ -2,7 +2,7 @@
 
 A futuristic "Hollywood hacker" terminal dashboard built in Rust. Blade Runner meets Star Trek meets Hackers.
 
-![Future Terminal Screenshot](screenshot.png)
+![Future Terminal Demo](images/future_terminal.gif)
 
 ## Features
 
